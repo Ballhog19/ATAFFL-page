@@ -33,6 +33,7 @@ Generate a custom league page for your Sleeper fantasy football league in just a
 <br>
 
 ## Features
+
 - Up-to-date league information
 - Easy to navigate trade and waiver history
 - Awards and accolades
